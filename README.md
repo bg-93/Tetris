@@ -9,8 +9,7 @@ Any horizontal lines in the field that become completely filled will be cleared,
 
 example of the layout to expect when executing the assembly code using mipsy.
 
-
-Welcome to 1521 tetris!
+''' Welcome to 1521 tetris!
 
 /= Field =\    SCORE: 0
 |   IIII  |
@@ -36,5 +35,5 @@ A new piece has appeared: J
   > q
 Quitting...
 
-Goodbye!
+Goodbye! '''
 
